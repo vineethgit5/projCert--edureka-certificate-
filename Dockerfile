@@ -1,4 +1,4 @@
-FROM jay/webapp
+FROM edureka/webapp
 
 ADD website /var/www/html
 
